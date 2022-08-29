@@ -1,0 +1,57 @@
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Ric\Downloads\Hospital-Management-System-Project-in-C\Hospital Management System Project in C"
+CMake Error: Could not find cmake module file: CMakeDeterminemanagementCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_management_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_management_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Ric/Downloads/Hospital-Management-System-Project-in-C/Hospital Management System Project in C/cmake-build-debug/CMakeFiles/3.16.5/CMakemanagementCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDeterminesystemCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_system_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_system_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Ric/Downloads/Hospital-Management-System-Project-in-C/Hospital Management System Project in C/cmake-build-debug/CMakeFiles/3.16.5/CMakesystemCompiler.cmake
+CMake Error: Could not find cmake module file: CMakeDetermineinCompiler.cmake
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_in_COMPILER_ENV_VAR
+CMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_in_COMPILER
+CMake Error: Could not find cmake module file: C:/Users/Ric/Downloads/Hospital-Management-System-Project-in-C/Hospital Management System Project in C/cmake-build-debug/CMakeFiles/3.16.5/CMakeinCompiler.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_management_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_management_COMPILER to the full path to the compiler, or to the
+  compiler name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakemanagementInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_system_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_system_COMPILER to the full path to the compiler, or to the compiler
+  name if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakesystemInformation.cmake
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_in_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_in_COMPILER to the full path to the compiler, or to the compiler name
+  if it is in the PATH.
+
+
+CMake Error: Could not find cmake module file: CMakeinInformation.cmake
+CMake Error: CMAKE_management_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_system_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_in_COMPILER not set, after EnableLanguage
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Ric/Downloads/Hospital-Management-System-Project-in-C/Hospital Management System Project in C/cmake-build-debug/CMakeFiles/CMakeOutput.log".
